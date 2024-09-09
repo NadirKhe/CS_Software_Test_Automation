@@ -1,6 +1,6 @@
 # <p align=center>Java Unit Tests</p>
 
-  The following coding was conducted for my Software, Test, and Automation course while attending SNHU. The objective of the original application was an appointment and task scheduler but the priority of the course was the creation of unit tests for the application. The following questions were required to be answered and uploaded as the final project in preparation for my BS in Computer Science Capstone course. The application was not required to be fully uploaded but the code for running the tests was required along with the different classes to ensure functionality of the unit test. If you have any questions on the unit tests or the application please let me know.
+  The following code was conducted for my Software, Test, and Automation course while attending SNHU. The objective of the original application was an appointment and task scheduler but the priority of the course was the creation of unit tests for the application. The following questions were required to be answered and uploaded as the final project in preparation for my BS in Computer Science Capstone course. The application was not required to be fully uploaded but the code for running the tests was required along with the different classes to ensure functionality of the unit test. If you have any questions on the unit tests or the application please let me know.
 
 ### <p align=center>SNHU Course Questions/Answers</p>
 How can I ensure that my code, program, or software is functional and secure?
